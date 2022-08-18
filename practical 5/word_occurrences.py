@@ -15,3 +15,4 @@ while string != " ":
        print("invalid string")
    string = input("Enter what occurrences of the string you want: ")
 
+
